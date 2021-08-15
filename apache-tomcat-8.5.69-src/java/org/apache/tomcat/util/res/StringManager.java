@@ -76,9 +76,7 @@ public class StringManager {
             // use of the ROOT Locale else incorrect results may be obtained if
             // the system default locale is not English and translations are
             // available for the system default locale.
-            // TODO 更改如果为中文,那么将中文设置成 ROOT
-            //if (locale.getLanguage().equals(Locale.ENGLISH.getLanguage())) {
-            if (locale.getLanguage().equals(Locale.SIMPLIFIED_CHINESE.getLanguage())) {
+            if (locale.getLanguage().equals(Locale.ENGLISH.getLanguage())) {
                 locale = Locale.ROOT;
             }
             bnd = ResourceBundle.getBundle(bundleName, locale);
