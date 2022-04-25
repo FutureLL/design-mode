@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/js/Balloon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/mp3/周笔畅-最美的期待.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/WebResourceRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/WebResourceRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/Connector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/CoyoteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/CoyoteAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/OutputBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/OutputBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/ContainerBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/ContainerBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardContextValve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardContextValve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardEngineValve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardEngineValve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardHost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardHost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardHostValve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardHostValve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardWrapperValve.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/core/StandardWrapperValve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/Catalina.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/Catalina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/ContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/ContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/HostConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/startup/HostConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/util/LifecycleBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/util/LifecycleBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/AbstractProtocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/AbstractProtocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/AbstractHttp11Protocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/AbstractHttp11Protocol.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/Http11Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/Http11Processor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/jasper/compiler/JDTCompiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/jasper/compiler/JDTCompiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/AbstractEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/AbstractEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/NioEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/NioEndpoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/res/StringManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/res/StringManager.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -13,12 +69,14 @@
     </option>
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectId" id="28GgNbY6pNQ9wzvSEPexoEWZm2X" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -27,5 +85,45 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="" />
+      <created>1650848297167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650848297167</updated>
+      <workItem from="1650848299029" duration="882000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
