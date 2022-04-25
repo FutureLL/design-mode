@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/img/a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/js/Balloon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringBootStudy/src/main/resources/static/mp3/周笔畅-最美的期待.mp3" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/AbstractEndpoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/WebResourceRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/WebResourceRoot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/Connector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/Connector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/CoyoteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/catalina/connector/CoyoteAdapter.java" afterDir="false" />
@@ -33,9 +27,9 @@
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/AbstractHttp11Protocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/AbstractHttp11Protocol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/Http11Processor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/coyote/http11/Http11Processor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/jasper/compiler/JDTCompiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/jasper/compiler/JDTCompiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/AbstractEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/AbstractEndpoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/NioEndpoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/net/NioEndpoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/res/StringManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../apache-tomcat-8.5.69-src/java/org/apache/tomcat/util/res/StringManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +102,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
-      <workItem from="1650848299029" duration="882000" />
+      <workItem from="1650848299029" duration="1055000" />
     </task>
     <servers />
   </component>
@@ -125,5 +119,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
