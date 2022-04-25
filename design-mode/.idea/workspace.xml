@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
-      <workItem from="1650848299029" duration="1298000" />
+      <workItem from="1650848299029" duration="1433000" />
     </task>
     <servers />
   </component>

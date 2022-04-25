@@ -1,7 +1,7 @@
 package com.future.strategy_pattern;
 
 /**
- * @Description: TODO 策略模式 1
+ * @Description: TODO 策略模式
  * @Author: lilei58
  * @Date: Created in 2022/4/25 上午9:14
  */
