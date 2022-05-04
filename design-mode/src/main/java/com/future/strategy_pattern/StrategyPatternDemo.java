@@ -6,7 +6,7 @@ import com.future.strategy_pattern.handler.impl.OperationMultiply;
 import com.future.strategy_pattern.handler.impl.OperationSubtract;
 
 /**
- * @Description: TODO 策略模式
+ * @Description: TODO impl 策略模式
  * @Author: lilei58
  * @Date: Created in 2022/5/4 下午9:11
  *
