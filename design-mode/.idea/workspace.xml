@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/BadFlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/FlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/GoodFlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/NoFlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/GaGaQuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/GeGeQuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/NoQuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/QuackBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/GreenHeadDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/RedHeadDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/Duck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/GreenHeadDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/RedHeadDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/StimulateDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/StoneDuck.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -81,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
+      <workItem from="1651024250703" duration="1634000" />
     </task>
     <servers />
   </component>
@@ -92,7 +112,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
