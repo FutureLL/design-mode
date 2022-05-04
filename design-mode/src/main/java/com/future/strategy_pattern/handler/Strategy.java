@@ -14,6 +14,6 @@ public interface Strategy {
      * @param num2
      * @return
      */
-    public int doOperation(int num1, int num2);
+    int doOperation(int num1, int num2);
 
 }

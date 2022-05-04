@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StimulateDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/BadFlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/FlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/GoodFlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/flybehavior/NoFlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/GaGaQuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/GeGeQuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/NoQuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/behavior/quackbehavior/QuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/GreenHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/duck/RedHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/GreenHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/RedHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/StimulateDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/oo/StoneDuck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/handler/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/handler/Strategy.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,12 +52,18 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.future.strategy_pattern.implWay.handler.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.future.strategy_pattern.abstractWay.handler.impl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern" />
     </key>
@@ -89,6 +80,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.future.strategy_pattern.abstractWay.TestDemo" />
+      <module name="design-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.future.strategy_pattern.abstractWay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -100,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
-      <workItem from="1651024250703" duration="1634000" />
+      <workItem from="1651024250703" duration="4232000" />
     </task>
     <servers />
   </component>
