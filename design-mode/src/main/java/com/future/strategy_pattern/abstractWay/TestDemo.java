@@ -5,9 +5,7 @@ import com.future.strategy_pattern.abstractWay.handler.impl.AbstractAddHandler;
 import com.future.strategy_pattern.abstractWay.handler.impl.AbstractMultiplyHandler;
 import com.future.strategy_pattern.abstractWay.handler.impl.AbstractSubtractHandler;
 import com.google.common.collect.Lists;
-import org.springframework.beans.factory.annotation.Autowired;
 
-import java.util.Collection;
 import java.util.List;
 import java.util.Optional;
 
