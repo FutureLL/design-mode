@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StrategyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StrategyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/handler/impl/AbstractSubtractHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/handler/impl/AbstractSubtractHandler.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
-      <workItem from="1651024250703" duration="4356000" />
+      <workItem from="1651024250703" duration="4635000" />
     </task>
     <servers />
   </component>
