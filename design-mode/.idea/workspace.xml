@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/handler/impl/AbstractSubtractHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/handler/impl/AbstractSubtractHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/TestDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ObserverPatternDemo">
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.future.observer_pattern.ObserverPatternDemo" />
+      <module name="design-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.future.observer_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.future.strategy_pattern.abstractWay.TestDemo" />
       <module name="design-mode" />
@@ -96,6 +108,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.TestDemo" />
       </list>
     </recent_temporary>
@@ -111,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
-      <workItem from="1651024250703" duration="4635000" />
+      <workItem from="1651024250703" duration="6176000" />
     </task>
     <servers />
   </component>

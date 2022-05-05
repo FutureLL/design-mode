@@ -17,7 +17,6 @@ import java.util.Optional;
  */
 public class TestDemo {
 
-    @Autowired
     private static List<AbstractStrategyHandler> handlers = Lists.newArrayList(
             new AbstractSubtractHandler(),
             new AbstractMultiplyHandler(),
