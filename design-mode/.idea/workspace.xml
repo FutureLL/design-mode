@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/abstractWay/TestDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/ObserverPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/ObserverPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/BinaryObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/BinaryObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/HexaObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/HexaObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/OctalObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/OctalObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/sub/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/observer_pattern/handler/impl/sub/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StrategyPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/StrategyPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/context/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern/handler/impl/context/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/ObserverPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/ObserverPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/BinaryObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/BinaryObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/HexaObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/HexaObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/OctalObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/OctalObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/sub/Subject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/observer_pattern/handler/impl/sub/Subject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/strategy_pattern/StrategyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/strategy_pattern/StrategyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/strategy_pattern/abstractWay/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/future/strategy_pattern/abstractWay/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/future/strategy_pattern/context/Context.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +138,7 @@
       <option name="presentableId" value="Default" />
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
-      <workItem from="1651024250703" duration="6176000" />
+      <workItem from="1651024250703" duration="12422000" />
     </task>
     <servers />
   </component>
@@ -148,5 +162,16 @@
     <MESSAGE value="master 策略模式" />
     <option name="LAST_COMMIT_MESSAGE" value="master 策略模式" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/util/Observable.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

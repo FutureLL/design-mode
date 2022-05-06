@@ -1,6 +1,6 @@
 package com.future.strategy_pattern;
 
-import com.future.strategy_pattern.context.Context;
+import com.future.strategy_pattern.handler.impl.context.Context;
 import com.future.strategy_pattern.handler.impl.OperationAdd;
 import com.future.strategy_pattern.handler.impl.OperationMultiply;
 import com.future.strategy_pattern.handler.impl.OperationSubtract;

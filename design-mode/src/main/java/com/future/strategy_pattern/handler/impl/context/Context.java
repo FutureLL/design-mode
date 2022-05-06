@@ -1,4 +1,4 @@
-package com.future.strategy_pattern.context;
+package com.future.strategy_pattern.handler.impl.context;
 
 import com.future.strategy_pattern.handler.Strategy;
 

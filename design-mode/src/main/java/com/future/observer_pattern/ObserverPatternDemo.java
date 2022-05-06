@@ -1,14 +1,20 @@
 package com.future.observer_pattern;
 
 import com.future.observer_pattern.handler.impl.BinaryObserver;
+import com.future.observer_pattern.handler.impl.BuiltInAddObserver;
 import com.future.observer_pattern.handler.impl.HexaObserver;
 import com.future.observer_pattern.handler.impl.OctalObserver;
+import com.future.observer_pattern.handler.impl.sub.BuiltInObservable;
 import com.future.observer_pattern.handler.impl.sub.Subject;
 
 /**
  * @Description: TODO 观察者模式
  * @Author: lilei58
  * @Date: Created in 2022/5/5 上午8:27
+ *
+ * Subject:     被依赖对象
+ * Observer:    依赖的对象
+ * Subject 通知 Observer 变化
  *
  * 当对象间存在一对多关系时,则使用观察者模式（Observer Pattern）。比如,当一个对象被修改时,则会自动通知依赖它的对象。观察者模式属于行为型模式。
  *
@@ -43,14 +49,23 @@ public class ObserverPatternDemo {
         Subject subject = new Subject();
 
         // 添加观察者
-        new HexaObserver(subject);
-        new OctalObserver(subject);
-        new BinaryObserver(subject);
+        HexaObserver hexaObserver = new HexaObserver(subject);
+        OctalObserver octalObserver = new OctalObserver(subject);
+        BinaryObserver binaryObserver = new BinaryObserver(subject);
+
+        // 删除观察者
+        subject.removeObserver(binaryObserver);
 
         System.out.println("First state change: 15");
         subject.setState(15);
         System.out.println("Second state change: 10");
         subject.setState(10);
+
+        System.out.println("---------------------- Java 内置观察者 ----------------------");
+
+        BuiltInObservable observable = new BuiltInObservable(new BuiltInAddObserver(), 10);
+        observable.dataChange();
+
     }
 
 }
