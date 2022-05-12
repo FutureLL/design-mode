@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/singleton_pattern/single/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/singleton_pattern/single/SingleObject.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/future/decorator_pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/future/abstract_factory_pattern/handler" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,6 +56,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/future/abstract_factory_pattern/handler" />
       <recent name="$PROJECT_DIR$/src/main/java/com/future/decorator_pattern" />
       <recent name="$PROJECT_DIR$/src/main/java/com/future/strategy_pattern" />
     </key>
@@ -140,7 +139,7 @@
       <updated>1650848297167</updated>
       <workItem from="1650848299029" duration="5112000" />
       <workItem from="1651024250703" duration="14710000" />
-      <workItem from="1652090177905" duration="7271000" />
+      <workItem from="1652090177905" duration="8428000" />
     </task>
     <servers />
   </component>
