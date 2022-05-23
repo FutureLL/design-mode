@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/adapter_pattern/AdapterPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/adapter_pattern/AdapterPatternDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +140,9 @@
       <workItem from="1650848299029" duration="5112000" />
       <workItem from="1651024250703" duration="14710000" />
       <workItem from="1652090177905" duration="10759000" />
-      <workItem from="1652742048330" duration="3769000" />
+      <workItem from="1652742048330" duration="4106000" />
+      <workItem from="1653210924879" duration="264000" />
+      <workItem from="1653315553130" duration="1104000" />
     </task>
     <servers />
   </component>
