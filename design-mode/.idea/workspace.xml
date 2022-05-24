@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -48,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/future/abstract_factory_pattern/handler" />
+    <property name="last_opened_file_path" value="$USER_HOME$/GuaZiProjects" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -142,7 +142,7 @@
       <workItem from="1652090177905" duration="10759000" />
       <workItem from="1652742048330" duration="4106000" />
       <workItem from="1653210924879" duration="264000" />
-      <workItem from="1653315553130" duration="1104000" />
+      <workItem from="1653315553130" duration="3381000" />
     </task>
     <servers />
   </component>
