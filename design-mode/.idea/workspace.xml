@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -79,7 +79,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DecoratorPatternDemo">
+  <component name="RunManager" selected="Application.CompositePatternDemo">
+    <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.future.composite_pattern.CompositePatternDemo" />
+      <module name="design-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.future.composite_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.future.decorator_pattern.DecoratorPatternDemo" />
       <module name="design-mode" />
@@ -121,6 +134,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CompositePatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
         <item itemvalue="Application.TestDemo" />
@@ -142,7 +156,8 @@
       <workItem from="1652090177905" duration="10759000" />
       <workItem from="1652742048330" duration="4106000" />
       <workItem from="1653210924879" duration="264000" />
-      <workItem from="1653315553130" duration="3381000" />
+      <workItem from="1653315553130" duration="4049000" />
+      <workItem from="1653437189658" duration="825000" />
     </task>
     <servers />
   </component>
