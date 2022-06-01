@@ -173,3 +173,7 @@ l
 Ksrc/main/java/com/future/iterator_pattern/iterator/impl/NameRepository.java,b/8/b887284c3a2410eda7842d95c5b7bb8ab9932e8b
 r
 Bsrc/main/java/com/future/iterator_pattern/IteratorPatternDemo.java,d/f/dfa39cb321df62ddfdf3834d8a08363325584bb8
+h
+8src/main/java/com/future/composite_pattern/Employee.java,e/5/e5927248cb649815198c4d2cf96a79be0ed6bbe7
+t
+Dsrc/main/java/com/future/composite_pattern/CompositePatternDemo.java,b/b/bbb6bda1386b66c22c470e64dd3955509d98e870
