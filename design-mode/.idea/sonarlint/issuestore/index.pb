@@ -177,3 +177,13 @@ h
 8src/main/java/com/future/composite_pattern/Employee.java,e/5/e5927248cb649815198c4d2cf96a79be0ed6bbe7
 t
 Dsrc/main/java/com/future/composite_pattern/CompositePatternDemo.java,b/b/bbb6bda1386b66c22c470e64dd3955509d98e870
+g
+7src/main/java/com/future/state_pattern/state/State.java,2/6/26d45b89a726a801feb6432e89dccc1788ee669e
+p
+@src/main/java/com/future/state_pattern/state/impl/StopState.java,e/f/ef3c1cb8bbc710b84651b34d7333b283432355e6
+k
+;src/main/java/com/future/state_pattern/context/Context.java,f/f/ffde19bb07a81bc2280e767d73177fc73c849bac
+q
+Asrc/main/java/com/future/state_pattern/state/impl/StartState.java,6/3/63653e05423fd579c9ab6f6876024f7e15aabad1
+l
+<src/main/java/com/future/state_pattern/StatePatternDemo.java,c/5/c5eb4913c66e2b004c49239a9549533c84e1fe67
