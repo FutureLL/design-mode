@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/bridge_pattern/bridge/impl/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/bridge_pattern/bridge/impl/Circle.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +178,7 @@
       <workItem from="1653491062841" duration="189000" />
       <workItem from="1654125910677" duration="1143000" />
       <workItem from="1654437693244" duration="1695000" />
-      <workItem from="1654526028070" duration="1909000" />
+      <workItem from="1654526028070" duration="2206000" />
     </task>
     <servers />
   </component>
