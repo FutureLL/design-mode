@@ -203,3 +203,15 @@ y
 Isrc/main/java/com/future/compound_pattern/compound/StudentController.java,5/5/554a7b322c71bad22355749d3fe042d8a281cc01
 r
 Bsrc/main/java/com/future/compound_pattern/CompoundPatternDemo.java,e/9/e924d8ad107bc4203cfd9a8f490d08db601b4d6d
+t
+Dsrc/main/java/com/future/bridge_pattern/bridge/impl/GreenCircle.java,c/9/c9cb954259b0aeded53f0a8da385d68813adf498
+m
+=src/main/java/com/future/bridge_pattern/bridge/abs/Shape.java,7/3/73a6ef789a57fa00ab88c823066ecd037bdb354b
+k
+;src/main/java/com/future/bridge_pattern/bridge/DrawAPI.java,a/b/ab5d13215676df891fb0dc9f59bf41be060cf13c
+o
+?src/main/java/com/future/bridge_pattern/bridge/impl/Circle.java,a/8/a8c563ee32b54828a7de7e7c58db5eed0de24708
+n
+>src/main/java/com/future/bridge_pattern/BridgePatternDemo.java,b/d/bddf358fcc3ff93cf1f83731615bfbfd9c026bbb
+r
+Bsrc/main/java/com/future/bridge_pattern/bridge/impl/RedCircle.java,7/9/793b2821217acdf96893dc321dd2091d2f8667a7

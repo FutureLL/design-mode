@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/bridge_pattern/bridge/impl/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/bridge_pattern/bridge/impl/Circle.java" afterDir="false" />
-    </list>
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StatePatternDemo">
+  <component name="RunManager" selected="Application.BuilderPatternDemo">
+    <configuration name="BuilderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.future.builder_pattern.BuilderPatternDemo" />
+      <module name="design-mode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.future.builder_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CompositePatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.future.composite_pattern.CompositePatternDemo" />
       <module name="design-mode" />
@@ -135,26 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.future.strategy_pattern.abstractWay.TestDemo" />
-      <module name="design-mode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.future.strategy_pattern.abstractWay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuilderPatternDemo" />
         <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
         <item itemvalue="Application.ObserverPatternDemo" />
-        <item itemvalue="Application.TestDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +176,8 @@
       <workItem from="1653491062841" duration="189000" />
       <workItem from="1654125910677" duration="1143000" />
       <workItem from="1654437693244" duration="1695000" />
-      <workItem from="1654526028070" duration="2206000" />
+      <workItem from="1654526028070" duration="2729000" />
+      <workItem from="1654646121229" duration="1519000" />
     </task>
     <servers />
   </component>
