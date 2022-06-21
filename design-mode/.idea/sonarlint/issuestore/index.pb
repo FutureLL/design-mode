@@ -215,3 +215,15 @@ n
 >src/main/java/com/future/bridge_pattern/BridgePatternDemo.java,b/d/bddf358fcc3ff93cf1f83731615bfbfd9c026bbb
 r
 Bsrc/main/java/com/future/bridge_pattern/bridge/impl/RedCircle.java,7/9/793b2821217acdf96893dc321dd2091d2f8667a7
+~
+Nsrc/main/java/com/future/builder_pattern/builder/impl/DellComputerBuilder.java,a/c/acba3b2fabd60304c26361092fcba8a464c63177
+n
+>src/main/java/com/future/builder_pattern/builder/Computer.java,c/f/cfb1737160c4664aa745b2c1a36b184e0e9d7400
+p
+@src/main/java/com/future/builder_pattern/BuilderPatternDemo.java,f/2/f28d5ec7368ea839890d05e239ca20abebdd3e66
+|
+Lsrc/main/java/com/future/builder_pattern/builder/impl/HpComputerBuilder.java,a/8/a84edb06437defbbe7e4546611b720b8fde81ddf
+u
+Esrc/main/java/com/future/builder_pattern/builder/ComputerBuilder.java,d/6/d6f6ef844e2b34ed436094d2e2d99c63eb1ec14c
+o
+?src/main/java/com/future/builder_pattern/director/Director.java,7/2/7259be1d159eec87693a6a05788258537b4ee64e
