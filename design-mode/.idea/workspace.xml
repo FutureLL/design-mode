@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式" />
+    <list default="true" id="b9297c50-9522-4cc6-902a-37220e66e785" name="Default Changelist" comment="master 策略模式">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/future/chain_of_responsibility_pattern/log/AbstractLogger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/future/chain_of_responsibility_pattern/log/AbstractLogger.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +184,7 @@
       <workItem from="1655163741406" duration="156000" />
       <workItem from="1655251322601" duration="242000" />
       <workItem from="1655648503592" duration="223000" />
-      <workItem from="1655821491434" duration="1252000" />
+      <workItem from="1655821491434" duration="1588000" />
     </task>
     <servers />
   </component>

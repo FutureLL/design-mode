@@ -23,14 +23,23 @@ public abstract class AbstractLogger {
     }
 
     public void logMessage(int level, String message){
+
+        // 执行对应 logger 的 write()
         if(this.level <= level){
             write(message);
         }
+
+        // 调用下一个 logger
         if(nextLogger !=null){
             nextLogger.logMessage(level, message);
         }
     }
 
+    /**
+     * 写方法
+     *
+     * @param message
+     */
     abstract protected void write(String message);
 
 }
