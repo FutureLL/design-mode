@@ -227,3 +227,13 @@ u
 Esrc/main/java/com/future/builder_pattern/builder/ComputerBuilder.java,d/6/d6f6ef844e2b34ed436094d2e2d99c63eb1ec14c
 o
 ?src/main/java/com/future/builder_pattern/director/Director.java,7/2/7259be1d159eec87693a6a05788258537b4ee64e
+Å
+Qsrc/main/java/com/future/chain_of_responsibility_pattern/log/abs/ErrorLogger.java,6/4/64cd911eaeb831e6fbcfbc47d0cd5b53e8c12da8
+Ä
+Psrc/main/java/com/future/chain_of_responsibility_pattern/log/abs/FileLogger.java,d/e/de8593711d21570f0f5ff5fa876a2a50faf97a3b
+É
+Ssrc/main/java/com/future/chain_of_responsibility_pattern/log/abs/ConsoleLogger.java,f/7/f7ffe7cebcd386c68be5d30c57030727a1db3474
+~
+Nsrc/main/java/com/future/chain_of_responsibility_pattern/ChainPatternDemo.java,b/2/b29debcb2a39406a7ab05181347866ce576b1725
+Ä
+Psrc/main/java/com/future/chain_of_responsibility_pattern/log/AbstractLogger.java,c/7/c7409303af07bb34b7b060bd4ff031df51936267
