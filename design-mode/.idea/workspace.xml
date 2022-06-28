@@ -49,7 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/future/compound_pattern/compound2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/GuaZiProjects" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/future/mediator_pattern" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -80,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BuilderPatternDemo">
+  <component name="RunManager" selected="Application.MediatorPatternDemo">
     <configuration name="BuilderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.future.builder_pattern.BuilderPatternDemo" />
       <module name="design-mode" />
@@ -120,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.future.observer_pattern.ObserverPatternDemo" />
+    <configuration name="MediatorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.future.mediator_pattern.MediatorPatternDemo" />
       <module name="design-mode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.future.observer_pattern.*" />
+          <option name="PATTERN" value="com.future.mediator_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MediatorPatternDemo" />
         <item itemvalue="Application.BuilderPatternDemo" />
         <item itemvalue="Application.StatePatternDemo" />
         <item itemvalue="Application.CompositePatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
-        <item itemvalue="Application.ObserverPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +184,9 @@
       <workItem from="1655648503592" duration="223000" />
       <workItem from="1655821491434" duration="1812000" />
       <workItem from="1655908949011" duration="648000" />
-      <workItem from="1655995108494" duration="1401000" />
+      <workItem from="1655995108494" duration="1648000" />
+      <workItem from="1656286919515" duration="354000" />
+      <workItem from="1656373490194" duration="1085000" />
     </task>
     <servers />
   </component>

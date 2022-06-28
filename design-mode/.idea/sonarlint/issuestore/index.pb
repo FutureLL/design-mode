@@ -237,3 +237,13 @@ Ssrc/main/java/com/future/chain_of_responsibility_pattern/log/abs/ConsoleLogger.
 Nsrc/main/java/com/future/chain_of_responsibility_pattern/ChainPatternDemo.java,b/2/b29debcb2a39406a7ab05181347866ce576b1725
 €
 Psrc/main/java/com/future/chain_of_responsibility_pattern/log/AbstractLogger.java,c/7/c7409303af07bb34b7b060bd4ff031df51936267
+x
+Hsrc/main/java/com/future/interpreter_pattern/imterpreter/Expression.java,2/0/2012a22bc3fd951f89841043b59c5fd73b72c39d
+…
+Usrc/main/java/com/future/interpreter_pattern/imterpreter/impl/TerminalExpression.java,3/d/3dc16b039b6808895640043e044c02aa7f587fcf
+€
+Psrc/main/java/com/future/interpreter_pattern/imterpreter/impl/AndExpression.java,b/9/b97e674c51157f8369c72b147cdfa0d01a1365ca
+
+Osrc/main/java/com/future/interpreter_pattern/imterpreter/impl/OrExpression.java,2/5/256c6d7f5b77211eaf8dd4a339c8bd3bcd2e0493
+x
+Hsrc/main/java/com/future/interpreter_pattern/InterpreterPatternDemo.java,2/b/2bb6738fcac63f2f1932e3bc49ad74a67ca5072c
